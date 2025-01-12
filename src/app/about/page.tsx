@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const page = () => {
   return (
@@ -13,11 +13,19 @@ const page = () => {
       </div>
       <div>
         <p className="lg:w-2/3  mx-auto leading-relaxed text-mycolorblue text-base">
-        Hi, Im Nimrah-kz. I've done my MBA in 2018. Now I learning skills by enrolling in GIAIC IT course. This exciting journey has equipped me with a solid foundation in web development, including HTML, CSS, TypeScript, and JavaScript. Currently, Im diving deeper into Next.js to create seamless and scalable web applications. Through GIAIC program, Ive gained valuable insights and expertise that have opened doors to new opportunities. Im eager to continue learning, exploring, and adapting to the ever-evolving tech landscape. With each new skill and experience, Im confident in my ability to make a meaningful impact in the digital world.
+        Hi, Im Nimrah kz. I have done my MBA in 2018. Now I learning skills by enrolling in GIAIC IT course. 
+        This exciting journey has equipped me with a solid foundation in web development, 
+        including HTML, CSS, TypeScript, and JavaScript. Currently,
+         Im diving deeper into Next.js to create seamless and scalable web applications. 
+         Through GIAIC program, 
+         Ive gained valuable insights and expertise that have opened doors to new opportunities. 
+         Im eager to continue learning, exploring, and adapting to the ever-evolving tech landscape
+          With each new skill and experience, Im confident in my ability to make a meaningful
+           impact in the digital world.
         </p>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default page
